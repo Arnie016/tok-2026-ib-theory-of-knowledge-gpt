@@ -3,7 +3,7 @@
 Independent ChatGPT GPT for IB Theory of Knowledge essay and exhibition support.
 
 Live GPT: https://chatgpt.com/g/g-fOitKYU60
-Website: https://arnie016.github.io/tok-2026-ib-theory-of-knowledge-gpt/
+Website: https://tok-ib-theory-of-knowledge-gpt.vercel.app/
 Contact: tok@agentmail.to
 
 Useful for:

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://arnie016.github.io/tok-2026-ib-theory-of-knowledge-gpt/sitemap.xml
+Sitemap: https://tok-ib-theory-of-knowledge-gpt.vercel.app/sitemap.xml
