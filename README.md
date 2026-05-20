@@ -1,6 +1,6 @@
 # TOK | IB Theory of Knowledge: Essay & Exhibition
 
-Independent ChatGPT GPT for IB Theory of Knowledge essay and exhibition support.
+Independent ChatGPT GPT for TOK IB Theory of Knowledge essay and exhibition support.
 
 - Live GPT: https://chatgpt.com/g/g-fOitKYU60
 - Website: https://tok-ib-theory-of-knowledge-gpt.vercel.app/
@@ -10,6 +10,7 @@ Independent ChatGPT GPT for IB Theory of Knowledge essay and exhibition support.
 
 ## What It Helps With
 
+- TOK IB study support
 - TOK essay planning
 - TOK exhibition object selection
 - Prescribed title analysis
@@ -23,7 +24,7 @@ Independent ChatGPT GPT for IB Theory of Knowledge essay and exhibition support.
 
 ## Keywords
 
-TOK, IB TOK, Theory of Knowledge, TOK essay, TOK exhibition, TOK essay guide, TOK essay word count, TOK essay structure, TOK essay examples, TOK essay feedback, TOK essay rubric, TOK exhibition objects, IB Theory of Knowledge, IBDP TOK, Diploma Programme TOK, AOK, areas of knowledge, knowledge questions, prescribed titles, claim, counterclaim, critical evaluation, ChatGPT TOK, Theory of Knowledge GPT, IB essay coach.
+TOK IB, IB TOK, TOK, Theory of Knowledge, TOK essay, TOK exhibition, TOK essay guide, TOK essay word count, TOK essay structure, TOK essay examples, TOK essay feedback, TOK essay rubric, TOK exhibition objects, TOK IB guide, TOK IB questions, IB Theory of Knowledge, IBDP TOK, Diploma Programme TOK, AOK, areas of knowledge, knowledge questions, prescribed titles, claim, counterclaim, critical evaluation, ChatGPT TOK, Theory of Knowledge GPT, IB essay coach.
 
 ## Student-Safe Positioning
 
