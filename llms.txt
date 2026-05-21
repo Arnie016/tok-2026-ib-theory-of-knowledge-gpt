@@ -1,21 +1,35 @@
-# TOK | IB Theory of Knowledge: Essay & Exhibition
+# TOK IB GPT
 
-Independent ChatGPT GPT for TOK IB Theory of Knowledge essay and exhibition support.
+> Independent ChatGPT GPT for IB Theory of Knowledge essay and exhibition support: planning, feedback, object selection, AOK comparison, claim and counterclaim development, word count, and rubric-style revision.
 
-Live GPT: https://chatgpt.com/g/g-fOitKYU60
-Website: https://tok-ib-theory-of-knowledge-gpt.vercel.app/
-Contact: tok@agentmail.to
+This site is for students searching for TOK IB, IB TOK, TOK essay help, TOK exhibition objects, Theory of Knowledge GPT, and academic-integrity-safe AI support. It is independent and is not affiliated with, endorsed by, or sponsored by the International Baccalaureate Organization or OpenAI.
 
-Useful for:
-- TOK IB study support
-- TOK essay planning
-- TOK exhibition object selection
-- Prescribed title analysis
-- AOK comparison
-- Claim and counterclaim development
-- Knowledge question refinement
-- Real-world example checks
-- Rubric-style feedback
-- TOK essay word count and structure improvement
+## Primary
 
-Keywords: TOK IB, IB TOK, TOK, Theory of Knowledge, TOK essay, TOK exhibition, TOK essay guide, TOK essay word count, TOK essay structure, TOK essay examples, TOK essay feedback, TOK exhibition objects, TOK IB guide, TOK IB questions, Theory of Knowledge GPT, ChatGPT TOK.
+- [Open TOK IB GPT](https://chatgpt.com/g/g-fOitKYU60): Live ChatGPT GPT for TOK essay and exhibition coaching.
+- [Homepage](https://tok-ib-theory-of-knowledge-gpt.vercel.app/): Main overview for TOK IB GPT, target use cases, and student-safe positioning.
+- [Full LLM context](https://tok-ib-theory-of-knowledge-gpt.vercel.app/llms-full.txt): Deeper agent-readable context, page map, keywords, use cases, and guardrails.
+
+## Clean Markdown Pages
+
+- [Homepage Markdown](https://tok-ib-theory-of-knowledge-gpt.vercel.app/index.md): Concise Markdown mirror of the main product page.
+- [TOK Essay Guide Markdown](https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-essay-guide.md): How to build a TOK essay argument from a prescribed title.
+- [TOK Essay Word Count Markdown](https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-essay-word-count.md): How to use the 1,600-word TOK essay limit well.
+- [TOK Essay Structure Markdown](https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-essay-structure.md): Claim, counterclaim, AOK, example, and implication structure.
+- [TOK Essay Examples Markdown](https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-essay-examples.md): How to use examples as knowledge analysis, not description.
+- [TOK Essay Feedback Markdown](https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-essay-feedback.md): Rubric-style diagnosis for TOK paragraphs and outlines.
+- [TOK Exhibition Objects Markdown](https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-exhibition-objects.md): How to choose and test TOK exhibition objects.
+- [Theory of Knowledge GPT Markdown](https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/theory-of-knowledge-gpt.md): Why TOK benefits from a TOK-specific AI coach.
+
+## HTML Guide Pages
+
+- [TOK Essay Guide](https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-essay-guide.html): Practical TOK essay guide for prescribed titles, AOKs, claims, counterclaims, examples, and evaluation.
+- [TOK Essay Word Count](https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-essay-word-count.html): Word-count planning for the 1,600-word TOK essay.
+- [TOK Exhibition Objects](https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-exhibition-objects.html): Object selection checks for TOK exhibition prompts.
+- [TOK Essay Feedback](https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-essay-feedback.html): Feedback prompts for title focus, AOK analysis, examples, and evaluation.
+
+## Optional
+
+- [GitHub Repository](https://github.com/Arnie016/tok-ib-theory-of-knowledge-gpt): Source repository and public project metadata.
+- [Official IB TOK Page](https://www.ibo.org/programmes/diploma-programme/curriculum/dp-core/theory-of-knowledge/): Official International Baccalaureate Theory of Knowledge reference.
+- [Contact](mailto:tok@agentmail.to): Support and questions.

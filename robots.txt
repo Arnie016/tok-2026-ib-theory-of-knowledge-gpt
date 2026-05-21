@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
 
+# AI agent context:
+# https://tok-ib-theory-of-knowledge-gpt.vercel.app/llms.txt
+# https://tok-ib-theory-of-knowledge-gpt.vercel.app/llms-full.txt
+
 Sitemap: https://tok-ib-theory-of-knowledge-gpt.vercel.app/sitemap.xml

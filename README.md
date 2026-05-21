@@ -1,9 +1,12 @@
-# TOK | IB Theory of Knowledge: Essay & Exhibition
+# TOK IB GPT | Theory of Knowledge Essay & Exhibition Help
 
 Independent ChatGPT GPT for TOK IB Theory of Knowledge essay and exhibition support.
 
 - Live GPT: https://chatgpt.com/g/g-fOitKYU60
 - Website: https://tok-ib-theory-of-knowledge-gpt.vercel.app/
+- GitHub: https://github.com/Arnie016/tok-ib-theory-of-knowledge-gpt
+- AI context: https://tok-ib-theory-of-knowledge-gpt.vercel.app/llms.txt
+- Full AI context: https://tok-ib-theory-of-knowledge-gpt.vercel.app/llms-full.txt
 - Questions or support: tok@agentmail.to
 
 ![TOK GPT preview](assets/public/gpt-preview.png)
@@ -47,6 +50,15 @@ Use it to ask:
 - [TOK Essay Feedback](guides/tok-essay-feedback.html)
 - [TOK Exhibition Objects](guides/tok-exhibition-objects.html)
 - [Theory of Knowledge GPT](guides/theory-of-knowledge-gpt.html)
+
+## AI Discovery
+
+This project includes agent-readable discovery files and Markdown mirrors:
+
+- [`llms.txt`](llms.txt): concise LLM and agent index.
+- [`llms-full.txt`](llms-full.txt): deeper context for agents, answer engines, and research workflows.
+- [`index.md`](index.md): Markdown mirror of the homepage.
+- [`guides/*.md`](guides): Markdown mirrors of the main guide pages.
 
 ## Disclaimer
 

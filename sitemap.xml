@@ -2,34 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tok-ib-theory-of-knowledge-gpt.vercel.app/</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-22</lastmod>
+  </url>
+  <url>
+    <loc>https://tok-ib-theory-of-knowledge-gpt.vercel.app/index.md</loc>
+    <lastmod>2026-05-22</lastmod>
+  </url>
+  <url>
+    <loc>https://tok-ib-theory-of-knowledge-gpt.vercel.app/llms.txt</loc>
+    <lastmod>2026-05-22</lastmod>
+  </url>
+  <url>
+    <loc>https://tok-ib-theory-of-knowledge-gpt.vercel.app/llms-full.txt</loc>
+    <lastmod>2026-05-22</lastmod>
   </url>
   <url>
     <loc>https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-essay-guide.html</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-22</lastmod>
+  </url>
+  <url>
+    <loc>https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-essay-guide.md</loc>
+    <lastmod>2026-05-22</lastmod>
   </url>
   <url>
     <loc>https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-essay-word-count.html</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-22</lastmod>
+  </url>
+  <url>
+    <loc>https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-essay-word-count.md</loc>
+    <lastmod>2026-05-22</lastmod>
   </url>
   <url>
     <loc>https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-exhibition-objects.html</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-22</lastmod>
+  </url>
+  <url>
+    <loc>https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-exhibition-objects.md</loc>
+    <lastmod>2026-05-22</lastmod>
   </url>
   <url>
     <loc>https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-essay-feedback.html</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-22</lastmod>
+  </url>
+  <url>
+    <loc>https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-essay-feedback.md</loc>
+    <lastmod>2026-05-22</lastmod>
   </url>
   <url>
     <loc>https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-essay-structure.html</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-22</lastmod>
+  </url>
+  <url>
+    <loc>https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-essay-structure.md</loc>
+    <lastmod>2026-05-22</lastmod>
   </url>
   <url>
     <loc>https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/theory-of-knowledge-gpt.html</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-22</lastmod>
+  </url>
+  <url>
+    <loc>https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/theory-of-knowledge-gpt.md</loc>
+    <lastmod>2026-05-22</lastmod>
   </url>
   <url>
     <loc>https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-essay-examples.html</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-22</lastmod>
+  </url>
+  <url>
+    <loc>https://tok-ib-theory-of-knowledge-gpt.vercel.app/guides/tok-essay-examples.md</loc>
+    <lastmod>2026-05-22</lastmod>
   </url>
 </urlset>
