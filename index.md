@@ -7,6 +7,14 @@ TOK IB GPT is an independent ChatGPT GPT for IB Theory of Knowledge essay and ex
 - Full agent context: https://tok-ib-theory-of-knowledge-gpt.vercel.app/llms-full.txt
 - Contact: tok@agentmail.to
 
+## Access And Pricing
+
+TOK IB GPT is opened through ChatGPT. This project does not charge a separate subscription fee. Access depends on ChatGPT availability and any OpenAI account or plan requirements that apply to custom GPTs.
+
+## Creator And Trust
+
+Created by Arnav as an independent study tool. The public website, GitHub repository, guide pages, Markdown mirrors, `llms.txt`, and `llms-full.txt` are available for review.
+
 ## What It Helps With
 
 - TOK IB study support

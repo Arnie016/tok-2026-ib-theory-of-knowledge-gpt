@@ -212,6 +212,22 @@ figcaption {
   gap: 40px;
 }
 
+.trust-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 28px;
+}
+
+.trust-grid h2 {
+  margin-bottom: 8px;
+  font-size: 22px;
+}
+
+.trust-grid p {
+  margin: 0;
+  color: var(--muted);
+}
+
 .proof p {
   max-width: 820px;
 }
@@ -311,7 +327,8 @@ footer {
 @media (max-width: 900px) {
   .site-header,
   .hero,
-  .split {
+  .split,
+  .trust-grid {
     grid-template-columns: 1fr;
   }
 

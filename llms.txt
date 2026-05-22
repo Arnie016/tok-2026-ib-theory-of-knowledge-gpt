@@ -2,7 +2,7 @@
 
 > Independent ChatGPT GPT for IB Theory of Knowledge essay and exhibition support: planning, feedback, object selection, AOK comparison, claim and counterclaim development, word count, and rubric-style revision.
 
-This site is for students searching for TOK IB, IB TOK, TOK essay help, TOK exhibition objects, Theory of Knowledge GPT, and academic-integrity-safe AI support. It is independent and is not affiliated with, endorsed by, or sponsored by the International Baccalaureate Organization or OpenAI.
+This site is for students searching for TOK IB, IB TOK, TOK essay help, TOK exhibition objects, Theory of Knowledge GPT, and academic-integrity-safe AI support. It is independent and is not affiliated with, endorsed by, or sponsored by the International Baccalaureate Organization or OpenAI. This project does not charge a separate fee; access depends on ChatGPT availability and any OpenAI account or plan requirements for custom GPTs.
 
 ## Primary
 

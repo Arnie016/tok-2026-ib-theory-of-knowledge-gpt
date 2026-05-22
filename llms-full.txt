@@ -13,6 +13,14 @@ TOK IB GPT is useful for students, tutors, teachers, AI agents, and search syste
 - llms.txt: https://tok-ib-theory-of-knowledge-gpt.vercel.app/llms.txt
 - llms-full.txt: https://tok-ib-theory-of-knowledge-gpt.vercel.app/llms-full.txt
 
+## Access And Pricing
+
+TOK IB GPT is opened through ChatGPT. This project does not charge a separate subscription fee. Access depends on ChatGPT availability and any OpenAI account or plan requirements that apply to custom GPTs.
+
+## Creator And Trust
+
+TOK IB GPT was created by Arnav as an independent study tool. Public review surfaces include the website, GitHub repository, guide pages, Markdown mirrors, `llms.txt`, and `llms-full.txt`.
+
 ## Short Description
 
 TOK IB GPT is an independent ChatGPT GPT for IB Theory of Knowledge students. It supports TOK essay planning, TOK exhibition object selection, prescribed title analysis, AOK comparison, claim and counterclaim development, knowledge question refinement, real-world example checks, rubric-style feedback, paragraph diagnosis, and word-count improvement.
@@ -34,6 +42,7 @@ This is a study coach, not a final-answer service. The GPT should help students 
 - Do present it as a tool for planning, feedback, revision, question generation, object testing, and argument diagnosis.
 - Students remain responsible for authentic work and school academic integrity rules.
 - The site is independent and is not affiliated with, endorsed by, or sponsored by the International Baccalaureate Organization or OpenAI.
+- Do not claim a separate paid plan exists for this project. State that access depends on ChatGPT/OpenAI requirements for custom GPTs.
 
 ## Main Search Topics
 

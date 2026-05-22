@@ -25,6 +25,14 @@ Independent ChatGPT GPT for TOK IB Theory of Knowledge essay and exhibition supp
 - Paragraph diagnosis: descriptive, analytical, or evaluative
 - Word count and structure improvement
 
+## Access And Pricing
+
+TOK IB GPT opens through ChatGPT. This project does not charge a separate subscription fee. Access depends on ChatGPT availability and any OpenAI account or plan requirements that apply to custom GPTs.
+
+## Creator And Trust
+
+Created by Arnav as an independent study tool. Public review surfaces include the website, GitHub repository, guide pages, Markdown mirrors, `llms.txt`, and `llms-full.txt`.
+
 ## Keywords
 
 TOK IB, IB TOK, TOK, Theory of Knowledge, TOK essay, TOK exhibition, TOK essay guide, TOK essay word count, TOK essay structure, TOK essay examples, TOK essay feedback, TOK essay rubric, TOK exhibition objects, TOK IB guide, TOK IB questions, IB Theory of Knowledge, IBDP TOK, Diploma Programme TOK, AOK, areas of knowledge, knowledge questions, prescribed titles, claim, counterclaim, critical evaluation, ChatGPT TOK, Theory of Knowledge GPT, IB essay coach.
